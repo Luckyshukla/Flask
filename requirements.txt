@@ -1,0 +1,26 @@
+certifi==2020.12.5
+click==7.1.2
+cycler==0.10.0
+dlib @ file:///D:/bld/dlib_1607165183225/work
+face-recognition==1.3.0
+face-recognition-models==0.3.0
+Flask==2.0.1
+Flask-SQLAlchemy==2.5.1
+greenlet==1.1.0
+gunicorn==20.1.0
+imutils==0.5.3
+itsdangerous==2.0.1
+Jinja2==3.0.1
+kiwisolver==1.3.1
+MarkupSafe==2.0.1
+matplotlib==3.3.3
+numpy @ file:///D:/bld/numpy_1604946253620/work
+opencv-python==4.4.0.46
+Pillow==8.0.1
+pyparsing==2.4.7
+python-dateutil==2.8.1
+scipy==1.5.4
+six==1.15.0
+SQLAlchemy==1.4.20
+Werkzeug==2.0.1
+wincertstore==0.2
